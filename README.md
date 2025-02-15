@@ -21,6 +21,4 @@
   * 12:00 - [MATH FOR COMPUTER TECHNOLOGY I](https://learn.georgebrown.ca/d2l/home/325357)  
   * 14:00 - [COMP1238 - FUND. OF COMPUTING LOGIC](https://learn.georgebrown.ca/d2l/home/337951)
 
-...
-attempt number 2
-[link to github repo](https://github.com/Emirsadi101470121/gbc/)
+
