@@ -23,4 +23,4 @@
 
 ...
 attempt number 2
-[link to github repo](https://github.com/Emirsadi101470121/gbc)
+[link to github repo](https://github.com/Emirsadi101470121/gbc/)
